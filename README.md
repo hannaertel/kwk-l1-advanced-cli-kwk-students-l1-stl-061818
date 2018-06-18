@@ -38,7 +38,7 @@ mv
 This will show you all the lines that contain the word 'dog'.
 
 If you want to search the text of many files in many directories, you can use the recursive flag `-r` to go through all files in directories within the start directory:mv 
-
+delivery/carr
 ```
 grep -r dog big_directory_with_sub_directories
 ```
