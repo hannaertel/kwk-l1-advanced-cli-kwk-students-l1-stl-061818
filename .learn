@@ -9,4 +9,4 @@ level: 3
 type:
   - stretch
 
-parent_template: git@github.com:learn-co-curriculum/upperline-hs-advanced-cli.gitmv 
+parent_template: git@github.com:learn-co-curriculum/upperline-hs-advanced-cli.git
