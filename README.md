@@ -33,7 +33,7 @@ The `grep` command is awesome. It allows you to search through all the text insi
 
 ```bash
 grep dog a_lot_of_text.txt
-```
+```mv 
 
 This will show you all the lines that contain the word 'dog'.
 
